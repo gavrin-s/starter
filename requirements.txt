@@ -9,6 +9,8 @@ scikit-learn
 eli5
 catboost
 xgboost
+pandas-profiling
+fbprophet
 
 # plotting
 matplotlib
