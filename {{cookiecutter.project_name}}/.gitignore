@@ -1,5 +1,5 @@
 # IDE
-.idea
+.idea/
 
 # Environments
 venv/
@@ -10,13 +10,5 @@ venv/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
-
 # Jupyter Notebook
 .ipynb_checkpoints/
-
-# Project folders
-data/
-logs/
-model/
-submit/
-tmp/
